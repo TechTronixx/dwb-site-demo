@@ -1,6 +1,6 @@
-# Memecoin
+# dwb NFT
 
-The Aleph shib project aims to introduce individuals to the Aleph Zero ecosystem through its fun and friendly mascot, Alephshib! (https://www.alephshib.com).
+dwb NFT Project
 
 ## Available Scripts
 

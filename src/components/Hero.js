@@ -1,12 +1,8 @@
 import React from "react";
 import Navigation from "./Navigation";
 import { Container, Row, Col } from "react-bootstrap";
-import alephshib from "../images/dwb_heros.png";
-import alephzero from "../images/aleph-zero-logo.svg";
-// import artzero from '../images/alephshib-artzero.svg'
-// import dextools from '../images/dextools.webp'
-// import cmc from '../images/cmc.webp'
-// import coingecko from '../images/coingecko.webp'
+import hero from "../images/dwb_heros.png";
+// import dextools from "../images/dextools.webp";
 
 const Hero = () => {
   return (
@@ -36,7 +32,7 @@ const Hero = () => {
                       </p>
                       <div className="d-flex pt-3 btns-mobile-center">
                         <a
-                          href="https://andromedaswap.org/swap"
+                          href="https://magiceden.io/marketplace/dwbs"
                           target="_blank"
                           rel="noreferrer"
                           className="buy-now-btn hvr-back-pulse me-3"
@@ -58,16 +54,14 @@ const Hero = () => {
                 data-aos-duration="1000"
                 data-aos-once="true"
               >
-                <img src={alephshib} alt="logo" />
+                <img src={hero} alt="logo" />
               </div>
             </Col>
           </Row>
         </Container>
       </div>
       <div className="d-flex justify-content-center brands mb-3">
-        {/* <img src={alephzero} className="" alt="azero" /> */}
-        {/* <img src={artzero} className='' alt='artzero' /> */}
-        {/* <img src={dextools} className='' alt='logo' /> */}
+        {/* <img src={dextools} className="" alt="logo" /> */}
         {/* <img src={cmc} className='' alt='logo' /> */}
         {/* <img src={coingecko} className='' alt='logo' /> */}
       </div>

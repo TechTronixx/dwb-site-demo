@@ -1,6 +1,6 @@
 import React from "react";
 import { Container } from "react-bootstrap";
-import telegram from "../images/icons/telegram.svg";
+// import telegram from "../images/icons/telegram.svg";
 import twitter from "../images/icons/twitter.svg";
 
 const Footer = () => {
@@ -9,18 +9,18 @@ const Footer = () => {
       <div className="text-center">
         <Container>
           <div className="d-flex justify-content-center mt-5 mb-3">
-            <a href="http://t.me/alephshib" target="_blank" rel="noreferrer">
+            {/* <a href="http://t.me/" target="_blank" rel="noreferrer">
               <div className="circle">
-                <img src={telegram} alt="alephshib telegram" />
+                <img src={telegram} alt="dwb telegram" />
               </div>
-            </a>
+            </a> */}
             <a
-              href="http://twitter.com/alephshib"
+              href="https://twitter.com/dwbs_nft"
               target="_blank"
               rel="noreferrer"
             >
               <div className="circle">
-                <img src={twitter} alt="alephshib twitter" />
+                <img src={twitter} alt="dwb twitter" />
               </div>
             </a>
           </div>
