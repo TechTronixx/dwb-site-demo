@@ -41,7 +41,9 @@ const Roadmap = () => {
                 <ul type="disc">
                   <li className="text-white">Curate a fun community</li>
                   <li className="text-white">Mint via $PRNT Launchpad</li>
-                  <li className="text-white">NFT mint-out!</li>
+                  <li className="text-white">
+                    Mint 555 supply to establish a strong foundation.
+                  </li>
                   <li className="text-white">
                     Immediately purchase IP rights/ownership
                   </li>
@@ -59,10 +61,12 @@ const Roadmap = () => {
               <div className="w-100">
                 <h4 className="text-white">Phase 2</h4>
                 <ul type="circle">
+                  <li className="text-white">Staking Rewards Activation.</li>
                   <li className="text-white">Art Upgrade</li>
                   <li className="text-white">Prepare for NFTNYC</li>
-                  <li className="text-white">Staking/LP rewards activation</li>
-                  <li className="text-white">Social media expansion</li>
+                  <li className="text-white">
+                    Purchase IP Licensing/Ownership
+                  </li>
                   <li className="text-white">Ecosystem Collaboration</li>
                 </ul>
               </div>
@@ -78,12 +82,10 @@ const Roadmap = () => {
               <div className="w-100">
                 <h4 className="text-white">Phase 3</h4>
                 <ul type="circle">
-                  <li className="text-white">Lottery Platform</li>
-                  <li className="text-white">Coinmarketcap Listing </li>
-                  <li className="text-white">Coingecko Listing</li>
-                  <li className="text-white">
-                    NFT Lending and borrowing platform
-                  </li>
+                  <li className="text-white">TBD</li>
+                  <li className="text-white">TBD </li>
+                  <li className="text-white">TBD</li>
+                  <li className="text-white">TBD </li>
                 </ul>
               </div>
             </div>
@@ -98,7 +100,7 @@ const Roadmap = () => {
                 className="buy-now-btn hvr-back-pulse"
                 style={{ width: 225 }}
               >
-                Download Whitepaper
+                (Comming Soon!)
               </div>
             </div>
           </div>

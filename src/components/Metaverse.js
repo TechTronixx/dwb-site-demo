@@ -12,7 +12,7 @@ const Metaverse = () => {
         data-aos-once="true"
       >
         <div className="text-center">
-          <h3 className="section-title">Enter the Alephshib Metaverse</h3>
+          <h3 className="section-title">Enter the dwb Metaverse</h3>
         </div>
         <Row>
           <Col md={6} className="mb-4">

@@ -17,15 +17,21 @@ const Navigation = () => {
           <Navbar.Toggle aria-controls="responsive-navbar-nav" />
           <Navbar.Collapse id="responsive-navbar-nav">
             <Nav className="ms-auto my-2 my-lg-0">
-              <Nav.Link href="#about">About</Nav.Link>
-              <Nav.Link href="#vision">Vision</Nav.Link>
-              <Nav.Link href="#team">Team</Nav.Link>
-              <Nav.Link href="#roadmap">Roadmap</Nav.Link>
-              {/* <Nav.Link className='loginLink' as={Link} to="/">Login</Nav.Link> */}
-              {/* <iframe class="formlets-iframe" src="https://www.formlets.com/forms/EibrIkdhyqrItSo1/?iframe=true&nofocus=y"
-                                    frameborder="0" width="100%"></iframe> */}
+              <Nav.Link href="#about" className="hover:text-gray-300">
+                About
+              </Nav.Link>
+              <Nav.Link href="#vision" className="hover:text-gray-300">
+                Vision
+              </Nav.Link>
+              <Nav.Link href="#team" className="hover:text-gray-300">
+                Team
+              </Nav.Link>
+              <Nav.Link href="#roadmap" className="hover:text-gray-300">
+                Roadmap
+              </Nav.Link>
+
               <Button
-                className="launchapp-btn hvr-back-pulse"
+                className="launchapp-btn hvr-back-pulse hover:bg-purple-700"
                 as={Link}
                 to="https://magiceden.io/marketplace/dwbs"
               >

@@ -100,6 +100,10 @@ a:focus {
   padding-right: 1rem !important;
 }
 
+.nav-link:hover {
+  color: #6b46c1 !important; /* Change the color on hover */
+}
+
 .launchapp-btn {
   font-family: Poppins-Regular;
   font-size: 16px !important;
@@ -261,8 +265,8 @@ ul li {
     #150d25,
     #7fc5df,
     #150d25,
-    #464183,
     #7fc5df,
+    #464183,
     #464183
   );
   background-size: 200% 200%;
