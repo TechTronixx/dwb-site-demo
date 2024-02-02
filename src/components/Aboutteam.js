@@ -31,11 +31,9 @@ const AboutTeam = () => {
                 </h4>
                 <p className="text-gray-600">
                   We are a dedicated team of professionals passionate about
-                  creating innovative solutions.
-                </p>
-                <p className="text-gray-600">
-                  Collaborating across various domains, our diverse team brings
-                  unique perspectives to every project.
+                  creating innovative solutions. Collaborating across various
+                  domains, our diverse team brings unique perspectives to every
+                  project.
                 </p>
                 <p className="text-gray-600">
                   Together, we strive to deliver exceptional experiences and

@@ -101,9 +101,8 @@ a:focus {
 }
 
 .nav-link:hover {
-  color: #6b46c1 !important; /* Change the color on hover */
+  color: #2969e9 !important;
 }
-
 .launchapp-btn {
   font-family: Poppins-Regular;
   font-size: 16px !important;
@@ -177,7 +176,7 @@ a:focus {
 }
 
 .dark_bg {
-  background: #140d24;
+  background: #162251;
 }
 
 .content-section {
