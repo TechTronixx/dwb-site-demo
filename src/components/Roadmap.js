@@ -86,6 +86,7 @@ const Roadmap = () => {
                   <li className="text-white">TBD </li>
                   <li className="text-white">TBD</li>
                   <li className="text-white">TBD </li>
+                  <li className="text-white">TBD </li>
                 </ul>
               </div>
             </div>
